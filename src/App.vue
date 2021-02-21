@@ -99,42 +99,6 @@ h6 {
   }
 }
 
-input {
-  border: 1px solid #ebebeb;
-  border-radius: 6px;
-  padding: .75rem;
-  font-size: 1rem;
-  width: 100%;
-  color: var(--darkgrey);
-  width: 320px;
-
-  &:focus {
-    box-shadow: 0 0 0 1px var(--lightblue) inset;
-    outline: none;
-  }
-
-  &.invalid {
-    color: var(--red);
-    border: 1px solid var(--red);
-  }
-}
-
-.text-invalid {
-  color: var(--red);
-  font-size: 0.8rem;
-  display: block;
-  position: absolute;
-  z-index: -1;
-  transform: translateY(-1rem);
-  opacity: 0;
-  transition: ease-out all .3s;
-
-  &.active {
-    transform: translateY(0);
-    opacity: 1;
-  }
-}
-
 button,
 .btn {
   color: #fff;
