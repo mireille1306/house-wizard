@@ -1,4 +1,5 @@
 # house-wizard
+An example of the product can be found [here]().
 
 ## Project setup
 ```
