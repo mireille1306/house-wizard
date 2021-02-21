@@ -1,5 +1,5 @@
 # house-wizard
-An example of the product can be found [here]().
+An example of the product can be found [here](https://admiring-euclid-ce9f62.netlify.app).
 
 ## Project setup
 ```
