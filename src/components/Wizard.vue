@@ -258,7 +258,7 @@
     animation: slideIn .5s forwards;
   }
 
-  @media (min-width: 480px) {
+  @media (min-width: 992px) {
     .user-input-grid {
       grid-template-columns: repeat(2, 1fr);
     }
